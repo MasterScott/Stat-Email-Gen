@@ -1,6 +1,5 @@
 # Stat-Email-Gen
 Generates emails based off name list from https://tinyurl.com/US-Students
-## ___________________________________
 
 ## To Use:
 1. Have python
