@@ -4,7 +4,7 @@ Generates emails based off name list from https://tinyurl.com/US-Students
 ## To Use:
 1. Have python
 2. clone / download repo/file
-3. include a  "students.csv" file in same directory as "emails.py" (You can download the google sheet as csv)
+3. include a  "students.csv" file in same directory as "emails.py" (You can download the google sheet as csv from [here](https://tinyurl.com/US-Students))
 4. Remove the first row (titles)
 5. run --> "python emails.py"
 6. input # of emails from each grade you would like, 
